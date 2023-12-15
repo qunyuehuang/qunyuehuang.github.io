@@ -6,6 +6,10 @@ layout: default
 
 Email: [qunyue.huang.cs@gmail.com](mailto:qunyue.huang.cs@gmail.com)  
 
+Now I am looking for PhD opportunities for fall 24 admissions. If you have any information you want to share with me, please feel free to [contact me](mailto:qunyue.huang.cs@gmail.com).
+
+If you would like to discuss potential opportunities for collaboration, please feel free to [contact me](mailto:qunyue.huang.cs@gmail.com).
+
 ## Education 
 
 September, 2021 - Present | Master's Degree of Computer Science and Technology, Chongqing University.   
