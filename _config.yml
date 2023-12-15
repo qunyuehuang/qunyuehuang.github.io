@@ -16,7 +16,7 @@ tracking_id: #
 nav:
 # - name: "About"
 #   link: "index"
- - name: "Resume"
+# - name: "Resume"
 #   link: "CV.pdf"
 # - name: "Contact Me"
 #   link: "contact"
