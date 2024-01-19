@@ -54,11 +54,15 @@ Image quality Assessment (IQA), Video Captioning (VC)
 * Familiar with commonly used data structures and algorithms, [LeetCode personal homepage](https://leetcode.cn/u/ngu-3/)
 
 * Know  MATLAB and LaTeX
+
+## Services
+
+Reviewer: ICME2024
  
 ---
 
 
-Last updated on Dec 15, 2023
+Last updated on Jan 19, 2024
 
 
 ---
