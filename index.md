@@ -6,8 +6,6 @@ layout: default
 
 Email: [qunyue.huang.cs@gmail.com](mailto:qunyue.huang.cs@gmail.com)  
 
-Now I am looking for PhD opportunities for fall 24 admissions. If you have any information you want to share with me, please feel free to [contact me](mailto:qunyue.huang.cs@gmail.com).
-
 If you would like to discuss potential opportunities for collaboration, please feel free to [contact me](mailto:qunyue.huang.cs@gmail.com).
 
 ## Education 
@@ -29,6 +27,8 @@ Image quality Assessment (IQA), Video Captioning (VC)
 
 ### 2024 
 
+* **Qunyue Huang**, Bin Fang. A Lightweight Parallel Framework for Blind Image Quality Assessment. arXiv Preprint 2024. (Under Review) [[paper](https://arxiv.org/pdf/2402.12043.pdf)] [code]
+
 * **Qunyue Huang**, Bin Fang, Xi Ai, Tianyu Nie. Perceiving Multi-layer Representations for No-Reference Image Quality Assessment. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024. [paper] [code]
 
 ### 2023
@@ -38,8 +38,6 @@ Image quality Assessment (IQA), Video Captioning (VC)
 ## Under Review Papers
 
 * **Qunyue Huang**, et al. IEEE Transactions on Consumer Electronics (TCE). (**Major Revision**) [paper] [code]
-
-* **Qunyue Huang**, et al. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024. [paper] [code]
   
 * **Qunyue Huang**, et al. IEEE International Conference on Multimedia and Expo (ICME) 2024. [paper] [code]
 
@@ -62,11 +60,7 @@ Reviewer: ICME2024
 ---
 
 
-Last updated on Jan 19, 2024
+Last updated on Feb 20, 2024
 
 
 ---
-
-
-
-
