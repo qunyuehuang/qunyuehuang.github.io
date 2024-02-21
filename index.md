@@ -4,7 +4,9 @@ layout: default
 
 # Qunyue Huang(黄群越)
 
-Email: [qunyue.huang.cs@gmail.com](mailto:qunyue.huang.cs@gmail.com)  
+Email: [qunyue.huang.cs@gmail.com](mailto:qunyue.huang.cs@gmail.com)
+
+[[Google scholar](https://scholar.google.com/citations?user=751JZcgAAAAJ&hl=zh-CN)]
 
 If you would like to discuss potential opportunities for collaboration, please feel free to [contact me](mailto:qunyue.huang.cs@gmail.com).
 
@@ -60,7 +62,7 @@ Reviewer: ICME2024
 ---
 
 
-Last updated on Feb 20, 2024
+Last updated on Feb 21, 2024
 
 
 ---
