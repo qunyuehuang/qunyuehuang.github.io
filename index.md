@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Qunyue Huang(黄群越)
+# Qunyue Huang (黄群越)
 
 Email: [qunyue.huang.cs@gmail.com](mailto:qunyue.huang.cs@gmail.com)
 
@@ -37,16 +37,6 @@ Image quality Assessment (IQA), Video Captioning (VC)
 
 * **Qunyue Huang**, Bin Fang, Xi Ai. A Global-Local Contrastive Learning Framework for Video Captioning. IEEE International Conference on Image Processing (ICIP) 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10223123?casa_token=YEW4rNhTO0QAAAAA:W5rSUSp4V5rAqPEyv77afTPZ4fnJsXRRh3zH8ZFmpMm_dtbh7czuTeEMH5tPSs77TcZ7BklleZI)] [code]
 
-## Under Review Papers
-
-* **Qunyue Huang**, et al. IEEE Transactions on Consumer Electronics (TCE). (**Major Revision**) [paper] [code]
-  
-* **Qunyue Huang**, et al. IEEE International Conference on Multimedia and Expo (ICME) 2024. [paper] [code]
-
-* **Qunyue Huang**, et al. IEEE International Conference on Multimedia and Expo (ICME) 2024. [paper] [code]
-
-* **Qunyue Huang**, et al. IEEE International Conference on Multimedia and Expo (ICME) 2024. [paper] [code]
-
 ## Skills
 
 * Familiar with Python, Java, Pytorch
@@ -57,12 +47,10 @@ Image quality Assessment (IQA), Video Captioning (VC)
 
 ## Services
 
-Reviewer: ICME2024
- 
+Reviewer: ICME 2024
+
 ---
 
-
-Last updated on Feb 21, 2024
-
+Last updated on Mar 4, 2024
 
 ---
