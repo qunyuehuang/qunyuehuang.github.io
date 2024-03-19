@@ -31,7 +31,7 @@ Image quality Assessment (IQA), Video Captioning (VC)
 
 * **Qunyue Huang**, Bin Fang. A Lightweight Parallel Framework for Blind Image Quality Assessment. arXiv Preprint 2024. (Under Review) [[paper](https://arxiv.org/pdf/2402.12043.pdf)] [code]
 
-* **Qunyue Huang**, Bin Fang, Xi Ai, Tianyu Nie. Perceiving Multi-layer Representations for No-Reference Image Quality Assessment. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024. [paper] [code]
+* **Qunyue Huang**, Bin Fang, Xi Ai, Tianyu Nie. Perceiving Multi-layer Representations for No-Reference Image Quality Assessment. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024. [[paper](https://ieeexplore.ieee.org/document/10446552)] [code]
 
 ### 2023
 
